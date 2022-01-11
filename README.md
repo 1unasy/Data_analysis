@@ -1,5 +1,1 @@
-# Deep-Learning Lecture
-
-## RPA를 위한 인공지능 과정
-
-#### 서울 양평동 한경닷컴 교육센터에서 2021년 11월 8일~2022년 4월 29일까지 진행됩니다.
+# Data Analysis of various public datas
